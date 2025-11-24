@@ -77,8 +77,7 @@ Generated predictions and computed **accuracy score**.
 
 Install packages:
 
-```
-bash
+```bash
 pip install numpy pandas scikit-learn
 ```
 
@@ -112,5 +111,3 @@ If you want, I can also:
 ✅ Add a sample confusion matrix  
 ✅ Format your `.ipynb` title section to match this README
 
-Just tell me!
-```
